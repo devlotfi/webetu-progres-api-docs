@@ -58,16 +58,16 @@ export class DiaDTO {
   @ApiProperty()
   public ofLlFiliere: string;
 
-  @ApiProperty()
+  @ApiProperty({ required: false })
   public ofIdSpecialite: number;
 
-  @ApiProperty()
+  @ApiProperty({ required: false })
   public ofCodeSpecialite: string;
 
-  @ApiProperty()
+  @ApiProperty({ required: false })
   public ofLlSpecialiteArabe: string;
 
-  @ApiProperty()
+  @ApiProperty({ required: false })
   public ofLlSpecialite: string;
 
   @ApiProperty()
@@ -142,6 +142,9 @@ export class DiaDTO {
   @ApiProperty()
   public niveauLibelleLongAr: string;
 
-  @ApiProperty()
+  @ApiProperty({ required: false })
   public fraisInscriptionPaye: boolean;
+
+  @ApiProperty({ required: false })
+  public transportPaye: boolean;
 }
