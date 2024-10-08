@@ -1,4 +1,4 @@
-<img height="100px" width="100px" src="https://github.com/devlotfi/webetu-progres/blob/main/github-assets/logo.svg">
+<img height="100px" width="100px" src="https://github.com/devlotfi/webetu-progres-api-docs/blob/main/github-assets/logo.svg">
 
 # 📜 Webetu Progres (API Docs) {Unofficial}
 The goal of this repository is to do an analysis of how the webetu progress app works, and try to document its corresponding backend API
@@ -36,7 +36,7 @@ which can be used in the swagger UI or to generate Postman docs. In addition it 
 Docs url: [http://localhost:3000/api](http://localhost:3000/api)
 
 ## Preview
-<img src="https://github.com/devlotfi/webetu-progres/blob/main/github-assets/swagger-docs.png">
+<img src="https://github.com/devlotfi/webetu-progres-api-docs/blob/main/github-assets/swagger-docs.png">
 
 # 📱 App info
 After decompiling the apk and analysing the resulting code we concluded that:
