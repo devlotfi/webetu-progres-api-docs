@@ -13,6 +13,7 @@ The goal of this repository is to do an analysis of how the webetu progress app 
 # 📌 Contents
 - [Tech stack](#-tech-stack)
 - [Project setup](#-running-the-project-locally)
+- [Preview](#-preview)
 - [App info](#-running-the-project-locally)
 
 # 💻 Tech stack
@@ -35,7 +36,7 @@ which can be used in the swagger UI or to generate Postman docs. In addition it 
 
 Docs url: [http://localhost:3000/api](http://localhost:3000/api)
 
-## Preview
+## 📷 Preview
 <img src="https://github.com/devlotfi/webetu-progres-api-docs/blob/main/github-assets/swagger-docs.png">
 
 # 📱 App info
