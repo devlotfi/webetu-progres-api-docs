@@ -3,6 +3,10 @@
 # 📜 Webetu Progres (API Docs) {Unofficial}
 The goal of this repository is to do an analysis of how the webetu progress app works, and try to document its corresponding backend API
 
+**INFO:**
+
+- You can check out the web client preview for this api [here](https://github.com/devlotfi/webetu-progres-web-client-preview)
+
 **NOTES:**
 - This repository is unofficial and is not always up to date with the official API
 - This repository was only made for educational purposes and was not intended to cause any dammage to the Webetu progres services
